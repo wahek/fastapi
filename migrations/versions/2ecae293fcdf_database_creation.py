@@ -35,7 +35,7 @@ def upgrade() -> None:
                     sa.ForeignKeyConstraint(['roll_id'], ['roles.id'], ),
                     sa.PrimaryKeyConstraint('id')
                     )
-    # ### end Alembic commands ###
+    # ### end Alembic commands ##
 
 
 def downgrade() -> None:
