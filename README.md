@@ -12,3 +12,7 @@ ___
 >![Static Badge](https://img.shields.io/badge/build-v12.1-brightgreen?style=flat-square&logo=alienware&logoColor=white&label=fastapi%20Users&labelColor=coralred&color=aqua)
 >![Static Badge](https://img.shields.io/badge/build-v4.6-brightgreen?style=flat-square&logo=redis&label=Redis&labelColor=midnightblue&color=aqua)
 >![Static Badge](https://img.shields.io/badge/build-v11.0-brightgreen?style=flat-square&logo=puppet&label=websockets&labelColor=oldlace&color=aqua)
+
+___
+
+Базовая работа с возможностями ___FastAPI___. Подключение к базе данных ___PostgreSQL___ через **асинхронный** движок ___asyncpg___ и ___SQLAlchemy___. **Аутентификация и авторизация** пользователей проходит через стороннюю библиотеку ___fastapi Users___. 
